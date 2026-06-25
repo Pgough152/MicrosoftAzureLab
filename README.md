@@ -1,4 +1,4 @@
-# CoursesCareersLabs
+# CourseCareersLab1
 
 <h1>Azure Lab 1</h1>
 
