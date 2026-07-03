@@ -1,4 +1,4 @@
-# CourseCareersLab1
+# MicrosoftAzureLab
 
 <h1>Microsoft Azure Lab</h1>
 
