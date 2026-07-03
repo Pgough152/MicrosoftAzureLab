@@ -1,6 +1,6 @@
 # CourseCareersLab1
 
-<h1>Azure Lab 1</h1>
+<h1>Microsoft Azure Lab</h1>
 
 
 <h2>Description</h2>
