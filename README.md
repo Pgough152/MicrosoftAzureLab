@@ -20,10 +20,6 @@ Project consists using Azure to gain familiarity with the cloud service. I start
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-Lab Checklist: <br/>
-<img width="967" height="569" alt="Lab Checklist2" src="https://github.com/user-attachments/assets/a7806dc2-8ca1-42b1-965a-bf3ff6878596" />
-<br />
-<br />
 Create Resource Group: <br/>
 <img width="1920" height="1140" alt="Screenshot 2026-06-24 192624" src="https://github.com/user-attachments/assets/720a6100-ac7e-4a85-a908-e099748ed578" />
 <br />
